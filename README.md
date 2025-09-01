@@ -1,6 +1,6 @@
 # My Interactive Autobiography Game
 
-An interactive story game I created to learn React and share my life journey!
+An interactive story game I created to learn React and share my life journey
 
 # How to Play
 
